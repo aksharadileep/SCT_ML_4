@@ -1,0 +1,10 @@
+# Ignore dataset
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Optional
+.env
+.DS_Store
