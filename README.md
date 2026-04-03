@@ -54,7 +54,7 @@ Includes a **Streamlit web app** for real-time predictions.
 |----------|-----------|
 | ![](screenshots/first.png) | ![](screenshots/second.png) |
 
-| Camera Mode | Batch Processing |
+| prediction | Batch Processing |
 |------------|------------------|
 | ![](screenshots/third.png) | ![](screenshots/fourth.png) |
 
