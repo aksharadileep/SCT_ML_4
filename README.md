@@ -62,25 +62,8 @@ Includes a **Streamlit web app** for real-time predictions.
 
 ## 🏗️ Project Structure
 
-SCT_ML_4/
-├── data/
-│   └── leapGestRecog/
-├── models/
-│   ├── gesture_model.keras
-│   ├── label_encoder.pkl
-│   ├── confusion_matrix.png
-│   └── training_history.png
-├── screenshots/
-│   ├── app_interface.png
-│   ├── first.png
-│   ├── second.png
-│   ├── third.png
-│   └── fourth.png
-├── app.py
-├── train.py
-├── utils.py
-├── requirements.txt
-└── README.md
+![alt text](image.png)
+
 
 ## ⚡ Setup
 
