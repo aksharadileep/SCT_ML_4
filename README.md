@@ -59,7 +59,6 @@ Includes a **Streamlit web app** for real-time predictions.
 
 ## 🏗️ Project Structure
 
-
 SCT_ML_4/
 ├── data/
 │ └── leapGestRecog/
@@ -79,6 +78,7 @@ SCT_ML_4/
 ├── utils.py
 ├── requirements.txt
 └── README.md
+
 
 ## ⚡ Setup
 
