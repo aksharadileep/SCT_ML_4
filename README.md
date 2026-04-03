@@ -1,23 +1,16 @@
 # ✋ Hand Gesture Recognition (Deep Learning)
-
 <div align="center">
-
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
 ![Accuracy](https://img.shields.io/badge/Accuracy-95%25+-green.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
-
 </div>
-
----
 
 ## 📌 Overview
 A deep learning model to classify **10 hand gestures** using **MobileNetV2 + Transfer Learning**.  
 Includes a **Streamlit web app** for real-time predictions.
 
 **Accuracy: 95%+** | **Gestures: 10** | **Inference: 30–50ms**
-
----
 
 ## 🚀 Features
 - ✅ 10 gesture classes (Palm, Fist, Thumb, OK, Index, etc.)
@@ -26,8 +19,6 @@ Includes a **Streamlit web app** for real-time predictions.
 - ✅ Top-K predictions with confidence scores
 - ✅ Batch image processing
 - ✅ Confusion matrix & training graphs
-
----
 
 ## 🖐️ Gestures
 
@@ -38,8 +29,6 @@ Includes a **Streamlit web app** for real-time predictions.
 | 👊 | Fist Moved | 👌 | OK |
 | 🤞 | I Shape | 🖐️ | Palm Moved |
 | 🤏 | C Shape | 👇 | Down |
-
----
 
 ## 📊 Results
 
@@ -55,7 +44,6 @@ Includes a **Streamlit web app** for real-time predictions.
 ### Training History
 ![Training History](models/training_history.png)
 
----
 
 ## 🖥️ Demo
 
@@ -70,6 +58,7 @@ Includes a **Streamlit web app** for real-time predictions.
 ---
 
 ## 🏗️ Project Structure
+
 
 SCT_ML_4/
 ├── data/
@@ -90,8 +79,6 @@ SCT_ML_4/
 ├── utils.py
 ├── requirements.txt
 └── README.md
-
----
 
 ## ⚡ Setup
 
@@ -118,18 +105,13 @@ leapGestRecog/
 ├── ...
 └── 09/10_down/
 
-
 🧠 Train Model
-
 python train.py
 Training Phases
 Phase 1: Head training (20 epochs, LR: 1e-3)
 Phase 2: Fine-tuning (15 epochs, LR: 1e-5)
-
 🌐 Run App
-
 streamlit run app.py
-
 
 🛠️ Tech Stack
 
@@ -142,13 +124,6 @@ streamlit run app.py
 | Scikit-learn         | Label encoding       |
 | Matplotlib / Seaborn | Visualization        |
 
-📈 Key Learnings
-
-Transfer learning with MobileNetV2
-Two-phase training (freeze → fine-tune)
-Handling class imbalance
-Real-time deployment with Streamlit
-Model evaluation techniques
 
 🤝 Connect
 
