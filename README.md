@@ -1,9 +1,12 @@
 # ✋ Hand Gesture Recognition (Deep Learning)
+
 <div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
 ![Accuracy](https://img.shields.io/badge/Accuracy-95%25+-green.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
+
 </div>
 
 ## 📌 Overview
@@ -56,8 +59,6 @@ Includes a **Streamlit web app** for real-time predictions.
 | ![](screenshots/third.png) | ![](screenshots/fourth.png) |
 
 ---
-
-## 🏗️ Project Structure
 
 ## 🏗️ Project Structure
 
